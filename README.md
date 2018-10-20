@@ -9,7 +9,9 @@ A math-solving program, built to solve many types of equations (complex, multi-v
 
 A SYMBOL is a mathematical expression (equation is not a SYMBOL, as it consists of two mathematical expressions).
 It may or may not contain other SYMBOL parameters.
-Common symbol types- addition, multiplication, number, variable
+
+Examples of symbol types- addition, multiplication, number, variable...
+
 example of the symbol representation of mathematical expressions: 
 - 4x + 3: addition(multiplication( number(4), variable(x) ), number(3))
 - x^2 : power(variable(x), number(2))
@@ -39,11 +41,13 @@ we define different methods of STANDARIZATION of the different SYMBOL types.
 
 example: for addition, if a parameter is an addition, we "extract" the nested addition's parameters to the nesting addition's
 parameter list:
+
 addition(addition(4,2), 4) -> addition(4,2,4)
 
 ### SIMPLIFICATION
 
 A SIMPLIFICATION of mathematical expression is the act of transforming it to another equal mathematical expression which is in an       *always-prefered* form.
+
 example:
   
 - 4 + 2 -> 6
