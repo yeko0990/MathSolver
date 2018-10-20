@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="PolynomEquationSolution"/>
+	<classpathentry kind="src" path="Tests"/>
+	<classpathentry kind="src" path="SolveableManipulationBehavior"/>
+	<classpathentry kind="src" path="OpenForm"/>
+	<classpathentry excluding="RepeatingFunctionUnifiers/" kind="src" path="DirectSimplifiers"/>
+	<classpathentry kind="src" path="Coefficients"/>
+	<classpathentry kind="src" path="SymbolStandarizers"/>
+	<classpathentry kind="src" path="Parameters"/>
+	<classpathentry kind="src" path="Symbols"/>
+	<classpathentry kind="src" path="NumberIdentifiers"/>
+	<classpathentry kind="src" path="PolynomIdentifiers"/>
+	<classpathentry kind="src" path="Latex Translation"/>
+	<classpathentry kind="src" path="LatexTests"/>
+	<classpathentry kind="src" path="Solutions"/>
+	<classpathentry kind="src" path="ImplicatedNumberIdentifiers"/>
+	<classpathentry kind="src" path="TranslatedNumberIdentifiers"/>
+	<classpathentry kind="src" path="SymbolVisitors"/>
+	<classpathentry kind="src" path="Solveables"/>
+	<classpathentry kind="src" path="Utils"/>
+	<classpathentry kind="src" path="PlusMinusEquationSolution"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
