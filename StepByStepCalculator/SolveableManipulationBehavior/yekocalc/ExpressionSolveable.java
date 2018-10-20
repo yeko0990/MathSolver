@@ -1,5 +1,7 @@
 package yekocalc;
 
+import latexpression.VariableIDTable;
+
 ///TODO Finish this class
 public class ExpressionSolveable implements Solveable {
 	private SolveableManipulateBehavior manipulate;

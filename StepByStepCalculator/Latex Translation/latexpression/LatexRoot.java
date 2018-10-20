@@ -2,7 +2,6 @@ package latexpression;
 
 import yekocalc.Root;
 import yekocalc.Symbol;
-import yekocalc.VariableIDTable;
 
 public class LatexRoot extends LatexExpression {
 	private LatexEvaluatable base, rootBy;

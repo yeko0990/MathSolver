@@ -4,6 +4,7 @@ import java.util.Objects;
 
 import latexpression.LatexExpression;
 import latexpression.LatexNumber;
+import latexpression.VariableIDTable;
 
 public class NumberSym extends Symbol {
 	

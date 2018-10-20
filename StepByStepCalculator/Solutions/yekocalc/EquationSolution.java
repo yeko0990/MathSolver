@@ -1,5 +1,7 @@
 package yekocalc;
 
+import latexpression.VariableIDTable;
+
 public class EquationSolution implements Solution {
 	Variable solvedFor;
 	Symbol solution;

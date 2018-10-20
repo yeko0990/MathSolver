@@ -3,6 +3,7 @@ import java.util.*;
 
 import latexpression.LatexAddition;
 import latexpression.LatexExpression;
+import latexpression.VariableIDTable;
 
 public class Addition extends Symbol {
 	@Override

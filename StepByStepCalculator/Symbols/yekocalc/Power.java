@@ -3,6 +3,7 @@ import java.util.*;
 
 import latexpression.LatexExpression;
 import latexpression.LatexPower;
+import latexpression.VariableIDTable;
 
 public class Power extends Symbol {
 	@Override

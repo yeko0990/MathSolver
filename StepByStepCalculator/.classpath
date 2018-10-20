@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="PolynomEquationSolution"/>
 	<classpathentry kind="src" path="Tests"/>
 	<classpathentry kind="src" path="SolveableManipulationBehavior"/>
@@ -14,7 +13,6 @@
 	<classpathentry kind="src" path="NumberIdentifiers"/>
 	<classpathentry kind="src" path="PolynomIdentifiers"/>
 	<classpathentry kind="src" path="Latex Translation"/>
-	<classpathentry kind="src" path="LatexTests"/>
 	<classpathentry kind="src" path="Solutions"/>
 	<classpathentry kind="src" path="ImplicatedNumberIdentifiers"/>
 	<classpathentry kind="src" path="TranslatedNumberIdentifiers"/>
@@ -22,5 +20,9 @@
 	<classpathentry kind="src" path="Solveables"/>
 	<classpathentry kind="src" path="Utils"/>
 	<classpathentry kind="src" path="PlusMinusEquationSolution"/>
+	<classpathentry kind="src" path="Exceptions"/>
+	<classpathentry kind="src" path="Filters"/>
+	<classpathentry kind="src" path="Symbol-components"/>
+	<classpathentry kind="src" path="Equation-Solving"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

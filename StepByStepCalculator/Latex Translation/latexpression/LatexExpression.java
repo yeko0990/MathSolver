@@ -2,7 +2,6 @@ package latexpression;
 import java.util.*;
 import yekocalc.Symbol;
 import yekocalc.CalcNumber;
-import yekocalc.VariableIDTable;
 
 public abstract class LatexExpression implements LatexEvaluatable {
 	public LatexExpression() {

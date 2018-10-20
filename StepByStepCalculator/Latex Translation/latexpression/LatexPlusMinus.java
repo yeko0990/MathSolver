@@ -2,7 +2,6 @@ package latexpression;
 
 import yekocalc.PlusMinus;
 import yekocalc.Symbol;
-import yekocalc.VariableIDTable;
 
 public class LatexPlusMinus extends LatexExpression {
 	private LatexEvaluatable parameter;

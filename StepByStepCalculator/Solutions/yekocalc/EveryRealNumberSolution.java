@@ -1,8 +1,8 @@
 package yekocalc;
 
+import latexpression.VariableIDTable;
 import yekocalc.Solution;
 import yekocalc.Variable;
-import yekocalc.VariableIDTable;
 
 public class EveryRealNumberSolution extends EquationSolution {
 	

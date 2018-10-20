@@ -3,6 +3,7 @@ import java.util.*;
 
 import latexpression.LatexExpression;
 import latexpression.LatexMultiply;
+import latexpression.VariableIDTable;
 
 public class Multiplication extends Symbol {
 	@Override

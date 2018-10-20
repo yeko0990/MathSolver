@@ -1,6 +1,7 @@
 package yekocalc;
 
 import latexpression.LatexUserString;
+import latexpression.VariableIDDynamicTable;
 
 public class EquationOrSetTest {
 	static VariableIDDynamicTable manager = new VariableIDDynamicTable();

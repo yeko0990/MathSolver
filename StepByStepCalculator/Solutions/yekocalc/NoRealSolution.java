@@ -1,5 +1,7 @@
 package yekocalc;
 
+import latexpression.VariableIDTable;
+
 public class NoRealSolution extends EquationSolution {
 
 	public NoRealSolution() {

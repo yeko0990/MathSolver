@@ -6,7 +6,6 @@ import java.util.List;
 
 import yekocalc.Multiplication;
 import yekocalc.Symbol;
-import yekocalc.VariableIDTable;
 
 public class LatexMultiply extends LatexExpression {
 	private final String MULTI = " \\cdot ";

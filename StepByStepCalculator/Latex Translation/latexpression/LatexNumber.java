@@ -3,7 +3,6 @@ package latexpression;
 import yekocalc.CalcNumber;
 import yekocalc.Symbol;
 import yekocalc.NumberSym;
-import yekocalc.VariableIDTable;
 
 public class LatexNumber extends LatexExpression {
 	private CalcNumber num;

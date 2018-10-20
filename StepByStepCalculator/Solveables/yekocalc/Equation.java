@@ -2,6 +2,7 @@ package yekocalc;
 import java.util.*;
 
 import latexpression.LatexExpression;
+import latexpression.VariableIDTable;
 
 ///TODO:
 ///Finish class

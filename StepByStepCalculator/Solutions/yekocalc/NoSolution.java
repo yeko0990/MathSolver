@@ -1,5 +1,7 @@
 package yekocalc;
 
+import latexpression.VariableIDTable;
+
 public class NoSolution extends EquationSolution {
 	
 	public NoSolution(Variable targetVar) {

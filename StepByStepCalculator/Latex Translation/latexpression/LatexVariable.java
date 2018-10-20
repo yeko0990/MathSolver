@@ -5,7 +5,6 @@ import java.util.HashMap;
 import yekocalc.CalcNumber;
 import yekocalc.Symbol;
 import yekocalc.Variable;
-import yekocalc.VariableIDTable;
 
 public class LatexVariable extends LatexExpression {
 	private final String var;

@@ -2,6 +2,8 @@ package yekocalc;
 
 import java.util.List;
 
+import latexpression.VariableIDTable;
+
 ///TODO move all logic out of this class, to PolynomEquation class.
 public class PolynomEquationManipulateBehavior {
 	

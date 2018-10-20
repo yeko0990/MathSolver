@@ -4,6 +4,7 @@ import java.util.*;
 
 import latexpression.LatexDivision;
 import latexpression.LatexExpression;
+import latexpression.VariableIDTable;
 
 ///TODO
 ///OVERRIDE toDissolvedSymbol() (DONT FORGET TO EDIT POLYNOM COEFFICIENT CLASS- TO ACCOMODATE COEFFICIENTS OF FRACTIONS 

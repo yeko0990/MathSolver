@@ -1,7 +1,6 @@
 package latexpression;
 import yekocalc.Equation;
 import yekocalc.Expression;
-import yekocalc.VariableIDDynamicTable;
 
 public class LatexEquationUserString {
 	private final String str;

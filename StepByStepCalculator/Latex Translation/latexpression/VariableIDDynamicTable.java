@@ -1,5 +1,7 @@
-package yekocalc;
+package latexpression;
 import java.util.*;
+
+import yekocalc.CalcNumber;
 
 ///Tracks IDs for variable names. Adds new ID for a new name that is queried.
 public class VariableIDDynamicTable implements VariableIDTable {

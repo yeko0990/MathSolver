@@ -2,6 +2,8 @@ package yekocalc;
 
 import java.util.List;
 
+import latexpression.VariableIDTable;
+
 public class PrintEquationSet extends EquationSetManipulateBehavior {
 	private VariableIDTable table;
 	private StringBuilder build;

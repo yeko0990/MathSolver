@@ -2,6 +2,7 @@ package yekocalc;
 
 import latexpression.LatexExpression;
 import latexpression.LatexUserString;
+import latexpression.VariableIDDynamicTable;
 
 public class EquationSolveTest extends TestingEnvironment {
 	

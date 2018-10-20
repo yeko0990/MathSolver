@@ -2,7 +2,6 @@ package latexpression;
 import java.util.*;
 import yekocalc.Symbol;
 import yekocalc.Addition;
-import yekocalc.VariableIDTable;
 
 public class LatexAddition extends LatexExpression {
 	private final String ADD = "+";

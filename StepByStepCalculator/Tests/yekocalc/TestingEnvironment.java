@@ -1,5 +1,7 @@
 package yekocalc;
 
+import latexpression.VariableIDDynamicTable;
+
 public class TestingEnvironment {
 	static final CalcNumber V_ID = new CalcNumber(1);
 	static final CalcNumber B_ID = new CalcNumber(2);

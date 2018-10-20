@@ -3,6 +3,8 @@ package yekocalc;
 import java.util.LinkedList;
 import java.util.List;
 
+import latexpression.VariableIDTable;
+
 public class EquationOrSet implements Solveable {
 	private SolveableManipulateBehavior manipulate;
 	private List<Equation> equations;

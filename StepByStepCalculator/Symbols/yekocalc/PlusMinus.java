@@ -4,6 +4,7 @@ import java.util.List;
 
 import latexpression.LatexExpression;
 import latexpression.LatexPlusMinus;
+import latexpression.VariableIDTable;
 
 public class PlusMinus extends Symbol {
 

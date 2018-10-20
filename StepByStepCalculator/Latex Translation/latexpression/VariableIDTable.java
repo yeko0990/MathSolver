@@ -1,4 +1,6 @@
-package yekocalc;
+package latexpression;
+
+import yekocalc.CalcNumber;
 
 public interface VariableIDTable {
 	public CalcNumber getID(String name);

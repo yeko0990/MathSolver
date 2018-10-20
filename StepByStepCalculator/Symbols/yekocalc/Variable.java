@@ -5,6 +5,7 @@ import java.util.Objects;
 
 import latexpression.LatexExpression;
 import latexpression.LatexVariable;
+import latexpression.VariableIDTable;
 
 ///*DONE*
 ///VERY VERY IMPORTANT!!!!!!!

@@ -1,5 +1,7 @@
 package yekocalc;
 
+import latexpression.VariableIDDynamicTable;
+
 public class PrintSolving extends PolynomEquationManipulateBehavior {
 	StringBuilder output;
 	VariableIDDynamicTable manager;

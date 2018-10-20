@@ -4,6 +4,7 @@ import java.util.List;
 
 import latexpression.LatexExpression;
 import latexpression.LatexRoot;
+import latexpression.VariableIDTable;
 
 public class Root extends Symbol {
 	@Override

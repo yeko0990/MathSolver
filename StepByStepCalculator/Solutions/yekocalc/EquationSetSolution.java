@@ -5,6 +5,8 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
+import latexpression.VariableIDTable;
+
 ///TODO Make EquationSolution save a possible range of values.
 ///		Currently, we might print the same solution twice... (x=2 or x=2)
 ///		Or we might print "Every real solution or x=4"...

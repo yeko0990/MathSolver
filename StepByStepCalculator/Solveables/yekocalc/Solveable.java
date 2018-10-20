@@ -1,5 +1,7 @@
 package yekocalc;
 
+import latexpression.VariableIDTable;
+
 public interface Solveable {
 	public SolveableManipulateBehavior manipulateBehavior(); ///Defines actions to be taken when next step is done- For example, print
 															 ///"Simplifying" when an equation is being simplified.
