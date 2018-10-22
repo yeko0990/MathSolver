@@ -1,7 +1,10 @@
 # About
 
-
 A math-solving program, built to solve many types of equations (complex, multi-variable, polynomial...) and to perfom various calculations (simplifications, deriatives...)
+
+![screenshot1-2](https://user-images.githubusercontent.com/8051412/47298307-1be39f80-d620-11e8-95c7-241a957507c4.jpg)
+![screenshot3-4](https://user-images.githubusercontent.com/8051412/47298312-1f772680-d620-11e8-8199-b9f73409eb62.jpg)
+
 
 ## Code Structure
 
